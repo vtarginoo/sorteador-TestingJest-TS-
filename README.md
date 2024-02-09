@@ -14,4 +14,5 @@
 
 ## 6. Recoil
 
-## Com o uso de todas essas ferramentas foi realizado esse projeto de teste para uma funcionalidade de pesquisador de amigo secreto em um projeto didático feito pela platforma Alura!
+## Com o uso de todas essas ferramentas, foi realizado esse projeto de teste para uma funcionalidade de sorteador de amigo secreto. 
+## Esse é um projeto didático feito pela platforma Alura!
